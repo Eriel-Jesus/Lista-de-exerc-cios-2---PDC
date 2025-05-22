@@ -1,0 +1,8 @@
+C:\Users\aluno\Downloads\Lista de exercícios com decisão lógica - CB3037151 - Eriel de Jesus\Exerci11\bin\Debug\Exerci11.exe.config
+C:\Users\aluno\Downloads\Lista de exercícios com decisão lógica - CB3037151 - Eriel de Jesus\Exerci11\bin\Debug\Exerci11.exe
+C:\Users\aluno\Downloads\Lista de exercícios com decisão lógica - CB3037151 - Eriel de Jesus\Exerci11\bin\Debug\Exerci11.pdb
+C:\Users\aluno\Downloads\Lista de exercícios com decisão lógica - CB3037151 - Eriel de Jesus\Exerci11\obj\Debug\Exerci11.csproj.AssemblyReference.cache
+C:\Users\aluno\Downloads\Lista de exercícios com decisão lógica - CB3037151 - Eriel de Jesus\Exerci11\obj\Debug\Exerci11.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Downloads\Lista de exercícios com decisão lógica - CB3037151 - Eriel de Jesus\Exerci11\obj\Debug\Exerci11.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\Lista de exercícios com decisão lógica - CB3037151 - Eriel de Jesus\Exerci11\obj\Debug\Exerci11.exe
+C:\Users\aluno\Downloads\Lista de exercícios com decisão lógica - CB3037151 - Eriel de Jesus\Exerci11\obj\Debug\Exerci11.pdb

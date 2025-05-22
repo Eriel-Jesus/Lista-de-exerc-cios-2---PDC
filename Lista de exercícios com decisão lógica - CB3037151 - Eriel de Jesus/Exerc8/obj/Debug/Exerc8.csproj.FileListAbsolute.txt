@@ -1,0 +1,7 @@
+C:\Users\Acer\Desktop\Programação l - Atividades\Lista de exercícios com decisão lógica - CB3037151 - Eriel de Jesus\Exerc8\bin\Debug\Exerc8.exe.config
+C:\Users\Acer\Desktop\Programação l - Atividades\Lista de exercícios com decisão lógica - CB3037151 - Eriel de Jesus\Exerc8\bin\Debug\Exerc8.exe
+C:\Users\Acer\Desktop\Programação l - Atividades\Lista de exercícios com decisão lógica - CB3037151 - Eriel de Jesus\Exerc8\bin\Debug\Exerc8.pdb
+C:\Users\Acer\Desktop\Programação l - Atividades\Lista de exercícios com decisão lógica - CB3037151 - Eriel de Jesus\Exerc8\obj\Debug\Exerc8.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Programação l - Atividades\Lista de exercícios com decisão lógica - CB3037151 - Eriel de Jesus\Exerc8\obj\Debug\Exerc8.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Programação l - Atividades\Lista de exercícios com decisão lógica - CB3037151 - Eriel de Jesus\Exerc8\obj\Debug\Exerc8.exe
+C:\Users\Acer\Desktop\Programação l - Atividades\Lista de exercícios com decisão lógica - CB3037151 - Eriel de Jesus\Exerc8\obj\Debug\Exerc8.pdb
